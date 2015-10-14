@@ -1,4 +1,4 @@
-// Данный файл может подключаться командой {$I 'Standart.localvar'}
+п»ї// This file can be added by {$I 'Standart.localvar'}   
 
 var
   I, J, K, N: Integer;
