@@ -1,0 +1,17 @@
+// Данный файл может подключаться командой {$I 'Standart.localvar'}
+
+var
+  I, J, K, N: Integer;
+  LI, LJ, LK: Int64;
+  T, T1, T2, T3: Int64;
+  Freq: Int64;
+
+  W: Word;
+
+  S, Str: String;
+
+  R: Extended;
+
+  Ok, E, Exist: Boolean;
+
+  DHandle: THandle;
