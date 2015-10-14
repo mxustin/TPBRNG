@@ -1,4 +1,5 @@
-﻿// This file can be added by {$I 'Standart.localvar'}   
+﻿// This file can be added by
+// {$I 'Standart.localvar'}   
 
 var
   I, J, K, N: Integer;
